@@ -1,0 +1,2 @@
+EndPoint URL: http://udagramapp-dev.us-east-1.elasticbeanstalk.com/
+
